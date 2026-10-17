@@ -7,12 +7,13 @@ security guard sent to find out why. All names, places and events in the game ar
 
 ## Status
 
-In development. No release has been published yet. When one is, it will appear under **Releases** on this page.
+In development. The latest build is under **Releases**: [v0.1.0, Chapter 1](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.1.0) (17 Oct 2026).
 
 ## Playing a release
 
-1. Download the zip from the latest release and unpack it anywhere.
-2. Run `Stillstand.exe`.
+1. Download **both** parts of the latest release (`.7z.001` and `.7z.002`) into the same folder.
+2. Open the `.7z.001` file with [7-Zip](https://www.7-zip.org/) (free) and extract it anywhere.
+3. Run `Windows\Stillstand.exe`.
 
 **Controls:** WASD to move, mouse to look, **E** to use, **F** for the flashlight, **Shift** to sprint, **Ctrl** to
 crouch, **Tab** to show the objective, **Esc** to pause. Keys can be changed in Settings, and gamepads work too.
