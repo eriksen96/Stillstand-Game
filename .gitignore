@@ -1,0 +1,9 @@
+# debug symbols for crash analysis - not needed to play
+*.pdb
+# logs and settings written while playing from this folder
+Saved/
+**/Saved/
+# temporary folder while a new build is swapped in
+Windows_old/
+# release zips kept next to the build, not in git
+Archive/
