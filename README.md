@@ -7,7 +7,7 @@ security guard sent to find out why. All names, places and events in the game ar
 
 ## Status
 
-In development. The latest build is under **Releases**: [v0.1.0, Chapter 1](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.1.0) (17 Oct 2026).
+In development. The latest build is under **Releases**: [v0.2.0, Chapters 1 and 2](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.2.0) (18 Oct 2026).
 
 ## Playing a release
 
