@@ -7,7 +7,7 @@ security guard sent to find out why. All names, places and events in the game ar
 
 ## Status
 
-In development. The latest build is under **Releases**: [v0.2.1, Chapters 1 and 2 with save slots](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.2.1) (18 Oct 2026). Version numbers are `v0.<chapters>.<update>`: the middle number is how many chapters the game has..
+In development. The latest build is under **Releases**: [v0.5.0, Chapters 1–5](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.5.0) (19 Oct 2026). Version numbers are `v0.<chapters>.<update>`: the middle number is how many chapters the game has.
 
 ## Playing a release
 
@@ -23,4 +23,5 @@ settings.
 
 ## Credits
 
-Third‑party assets and fonts are listed with their licences in the game's credits screen.
+Third‑party assets and fonts are listed with their licences in the game's credits screen. Some props are AI‑assisted
+models: Powered by Stability AI.
