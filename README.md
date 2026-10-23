@@ -1,17 +1,17 @@
 # STILLSTAND
 
-A short first‑person atmospheric horror game for Windows, made in Unreal Engine 5.
+A first‑person atmospheric horror game for Windows, made in Unreal Engine 5.
 
 At 02:47 the lights come on in a mountain power station that has been sealed since 1991. You are the night‑shift
 security guard sent to find out why. All names, places and events in the game are fictional.
 
 ## Status
 
-In development. The latest build is under **Releases**: [v0.5.1, Chapters 1–5](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.5.1) (20 Oct 2026). Version numbers are `v0.<chapters>.<update>`: the middle number is how many chapters the game has.
+In development. The latest build is under **Releases**: [v0.8.0, all eight chapters](https://github.com/eriksen96/Stillstand-Game/releases/tag/v0.8.0) (23 Oct 2026). Version numbers are `v0.<chapters>.<update>`: the middle number is how many chapters the game has.
 
 ## Playing a release
 
-1. Download **both** parts of the latest release (`.7z.001` and `.7z.002`) into the same folder.
+1. Download **all** the `.7z.0xx` parts of the latest release into the same folder.
 2. Open the `.7z.001` file with [7-Zip](https://www.7-zip.org/) (free) and extract it anywhere.
 3. Run `Windows\Stillstand.exe`.
 
@@ -23,5 +23,4 @@ settings.
 
 ## Credits
 
-Third‑party assets and fonts are listed with their licences in the game's credits screen. Some props are AI‑assisted
-models: Powered by Stability AI.
+Third‑party assets and fonts are listed with their licences in the game's credits screen.
